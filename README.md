@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate **Platfrom Engineer** specializin
 
 ## 📬 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/budimir-filipovic/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/budimir-filipovic/)
 - 📧 [Email](mailto:budimir.filipovic1@gmail.com)
 
 Feel free to check out my repositories and reach out if you have any questions or just want to connect!
