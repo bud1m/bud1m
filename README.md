@@ -9,5 +9,3 @@ platform engineer from belgrade. i work with kubernetes, argo cd, and gcp day to
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-
-[![Blog](https://img.shields.io/badge/bud1m.com-000?style=flat&logo=astro&logoColor=white)](https://bud1m.com)
